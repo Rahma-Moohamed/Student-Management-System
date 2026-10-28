@@ -167,7 +167,7 @@ class StudentManagement:
 management = StudentManagement()
 
 while True:
-    print("\n===== Student Management System =====")
+    print("Student Management System")
     print("1. Add Student")
     print("2. View Students")
     print("3. Search Student")
@@ -197,4 +197,4 @@ while True:
         break
 
     else:
-        print("Invalid choice. Try again.")
+        print("Invalid choice. Try again")
